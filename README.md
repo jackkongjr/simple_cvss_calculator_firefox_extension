@@ -18,7 +18,8 @@ To install an extension temporarily:
 Once loaded, click on extension icon.
 
 
-![immagine](https://github.com/jackkongjr/simple_cvss_calculator_chrome_extension/assets/36534362/b6d81106-80c5-462b-a7e0-6fd94ae2b7b2)
+![immagine](https://github.com/jackkongjr/simple_cvss_calculator_firefox_extension/assets/36534362/a2234797-b89f-4e8e-bc22-e4654c288b78)
+
 
 
 ## License
