@@ -2,7 +2,7 @@
 
 Simple CVSS 3.1 Calculator is a Firefox extension that helps you calculate CVSS 3.1 attack vector string.
 
-
+Available at:  https://addons.mozilla.org/en-US/firefox/addon/cvss31calc/
 
 ## How to load with developer mode in Firefox
 
