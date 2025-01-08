@@ -3,6 +3,10 @@
  - Now it supports CVSS 4.0 Base Metrics Calculator
 
 
+![image](https://github.com/user-attachments/assets/7e31c018-ba88-4e2c-a031-19119ed21814)
+
+
+
 # Simple CVSS 3.1 Calculator - Firefox Extension
 
 Simple CVSS 3.1 Calculator is a Firefox extension that helps you calculate CVSS 3.1 attack vector string.
