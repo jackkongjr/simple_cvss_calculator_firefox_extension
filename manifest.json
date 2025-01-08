@@ -1,9 +1,9 @@
 {
 
-  "description": "Adds a browser action icon to the toolbar. Click the button to calculate the CVSS 3.1 Base Score for a vulnerability",
+  "description": "Adds a browser action icon to the toolbar. Click the button to calculate the CVSS 4.0/3.1 Base for a vulnerability",
   "manifest_version": 2,
-  "name": "CVSS31Calc",
-  "version": "1.0",
+  "name": "CVSSCalc",
+  "version": "2.0",
   "homepage_url": "https://github.com/jackkongjr/simple_cvss_calculator_firefox_extension",
   "icons": {
     "48": "images/icon48.png"
@@ -20,7 +20,7 @@
         "dark": "images/icon32.png",
         "size": 32
     }],
-    "default_title": "CVSS 31 Calculator",
+    "default_title": "CVSS 40/31 Calculator",
     "default_popup": "popup/popup.html"
   },
 
